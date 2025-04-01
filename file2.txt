@@ -1,2 +1,3 @@
 Drugi plik do przemysleń.
 Wygląda, że ciężko jest wpisać polskie s z kreską.
+Trzecia linia wymagała poprawki iss21.
