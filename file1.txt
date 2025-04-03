@@ -1,1 +1,1 @@
-Pliczerk jeden do zminay
+echo
