@@ -1,3 +1,5 @@
 dodaj linie na koniec?
+
 Konflikotowa linia z lokala.
+Ogarnij konflikty.
 
