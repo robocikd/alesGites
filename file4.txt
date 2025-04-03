@@ -1,0 +1,6 @@
+dodaj linie na koniec?
+
+Konflikotowa linia z lokala.
+Ogarnij konflikty.
+
+Kolejna linijka w iss1 na serwerze.
